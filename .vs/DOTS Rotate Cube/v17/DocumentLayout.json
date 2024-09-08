@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DOTS Rotate Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\playershootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|d:\\projects\\dots rotate cube\\assets\\scripts\\stunnedmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stunnedmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|d:\\projects\\dots rotate cube\\assets\\scripts\\cubespawnermono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubespawnermono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\rotateobjectmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotateobjectmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\playermono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\rotatecubemono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecubemono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\movementmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementmono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\handlecubesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handlecubesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|D:\\Projects\\DOTS Rotate Cube\\assets\\scripts\\rotatingmovingcubeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E73BCF5-74C9-8E5B-4F1A-5F37FD115D3C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatingmovingcubeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StunnedMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\StunnedMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StunnedMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\StunnedMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StunnedMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:13:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerShootingSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\PlayerShootingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShootingSystem.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\PlayerShootingSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShootingSystem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:02:59.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeSpawnerMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\CubeSpawnerMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeSpawnerMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\CubeSpawnerMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeSpawnerMono.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:29:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RotatingMovingCubeAspect.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotatingMovingCubeAspect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatingMovingCubeAspect.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotatingMovingCubeAspect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatingMovingCubeAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:09:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandleCubeSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\HandleCubeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HandleCubeSystem.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\HandleCubeSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HandleCubeSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:57:17.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovementMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\MovementMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\MovementMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:50:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RotateCubeMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotateCubeMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateCubeMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotateCubeMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateCubeMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:44:12.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\PlayerMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\PlayerMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:33:44.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotateObjectMono.cs",
+              "DocumentMoniker": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotateObjectMono.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateObjectMono.cs",
+              "ToolTip": "D:\\Projects\\DOTS Rotate Cube\\Assets\\Scripts\\RotateObjectMono.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateObjectMono.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:33:28.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
